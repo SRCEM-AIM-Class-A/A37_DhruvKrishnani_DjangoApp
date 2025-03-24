@@ -13,12 +13,15 @@ Multi-app Django project (Core, Dashboard, Reports)
 Static pages with Bootstrap-based UI
 No database required (Only templates & views)
 Containerized with Docker
+
 CI/CD integration with Jenkins
 Docker image hosted on Docker Hub
+
 🛠 How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/SRCEM-AIM-Class-A/A37_DhruvKrishnani_DjangoApp
+git clone https://github.com/SRCEM-AIM-Class-A/A37_DhruvKrishnani_DjangoApp.git
 cd StudentProject
+
 2️⃣ Run with Django (Without Docker)
 pip install -r requirements.txt
 python manage.py runserver
