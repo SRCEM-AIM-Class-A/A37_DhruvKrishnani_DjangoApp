@@ -17,8 +17,8 @@ CI/CD integration with Jenkins
 Docker image hosted on Docker Hub
 🛠 How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/SRCEM-AIM-Class-A/A64_viraj_yawale.git
-cd Assignment2
+git clone https://github.com/SRCEM-AIM-Class-A/A37_DhruvKrishnani_DjangoApp
+cd StudentProject
 2️⃣ Run with Django (Without Docker)
 pip install -r requirements.txt
 python manage.py runserver
